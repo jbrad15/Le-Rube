@@ -8,8 +8,8 @@ So staring out my for the pryamix duo times are:
 </ol>
 I know the slow way of doing a 2x2\
 <ol>
-  <li> AO5: 26.22s </li>
-  <li> AO12: 22.45s </li>
-  <li> AO25: 23.82s </li>
+  <li> AO5: 28.22s </li>
+  <li> AO12: 28.45s </li>
+  <li> AO25: 27.82s </li>
 </ol>
 I have no idea how to solve a skweb
