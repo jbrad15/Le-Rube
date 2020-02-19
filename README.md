@@ -25,3 +25,4 @@ Soruces:
 <a> https://www.youtube.com/watch?v=P-Zt7GEyYuE </a>\
 <a> https://cstimer.net/ </a>\
 <a> http://www.cubewhiz.com/ortegapbl.php </a>
+<a> https://www.rubiks.com/en-us/how-to-solve-2x2-rubiks-cube </a>
