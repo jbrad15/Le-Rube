@@ -18,3 +18,10 @@ I have no idea how to solve a skweb these are my first times
   <li> AO12: s </li>
   <li> AO25: s </li>
 </ol>
+Soruces:\
+
+<a> https://cubingtime.com/ </a>\
+<a> https://www.youtube.com/watch?v=Ar5-X7K9v1A </a>\
+<a> https://www.youtube.com/watch?v=P-Zt7GEyYuE </a>\
+<a> https://cstimer.net/ </a>\
+<a> http://www.cubewhiz.com/ortegapbl.php </a>\
